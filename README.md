@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IceHeart48
-- 👀 I’m interested in Robotics, Computer Science and Computer Vision
+- 👀 I’m interested in Robotics, Computer Science, Computer-Vision
 - 🌱 I’m currently learning Robotics & Computer Vision
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me through the app
 
 <!---
 IceHeart48/IceHeart48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
